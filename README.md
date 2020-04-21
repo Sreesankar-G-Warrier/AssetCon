@@ -1,8 +1,8 @@
 # AssetCon
 An Interative Recon Tool
 
-INSTALLATION
+# INSTALLATION
 Download the file and run INSTALL.sh for installing the Dependencies.
 
-USAGE
+# USAGE
 ./assestcon.sh <domain>
