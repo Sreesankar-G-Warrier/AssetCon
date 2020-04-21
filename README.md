@@ -5,4 +5,5 @@ An Interative Recon Tool
 Download the file and run INSTALL.sh for installing the Dependencies.
 
 # USAGE
-./assestcon.sh <domain>
+
+./assestcon.sh domain
